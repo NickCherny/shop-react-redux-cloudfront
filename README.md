@@ -1,3 +1,10 @@
+# Labs
+
+## Task 2
+[Link on cloudfront](https://d1kprndee7u2qc.cloudfront.net/)
+[Link on S3](http://my-store-app-dev-serverlessdeploymentbucket-guf7fz1ja8m4.s3-website-eu-west-1.amazonaws.com/)
+
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
