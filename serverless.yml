@@ -8,6 +8,7 @@ provider:
   region: eu-west-1
   # setup profile for AWS CLI.
   profile: nickadmin
+  deploymentMethod: direct
 
 plugins:
   - serverless-finch
